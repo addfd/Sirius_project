@@ -3,12 +3,8 @@
 
 
 Библиотеки:
-
-Librosa — https://librosa.org/doc/latest/index.html
-
-pyAudioAnalisys — https://github.com/tyiannak/pyAudioAnalysis
-
-matplotlib
++ Librosa — https://librosa.org/doc/latest/index.html
++ matplotlib
 
 
 # Текст задачи
